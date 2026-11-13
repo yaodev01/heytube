@@ -1,0 +1,33 @@
+===============================================================
+  HEYTUBER v2.5.0 - Local PNGTuber for Windows 10 & 11
+  "Your Avatar. Your Voice. Your Stream."
+===============================================================
+
+PANDUAN MENJALANKAN (100% OFFLINE TANPA INTERNET):
+
+CARA 1 (PALING MUDAH & CEPAT):
+1. Cukup dobel-klik "HEYTUBER.exe".
+2. Aplikasi akan langsung membuka jendela HEYTUBER di komputer Anda.
+   (Tidak perlu ekstrak rumit, tidak perlu install node.js, langsung jalan!).
+
+CARA 2 (VIA BROWSER / EDGE / CHROME):
+1. Dobel-klik file "HEYTUBER_SingleFile.html".
+2. Browser akan terbuka dengan tampilan HEYTUBER lengkap & offline.
+3. Klik tombol mikrofon untuk mulai streaming dengan avatar PNG!
+
+CARA 3 (VIA SCRIPT LAUNCHER):
+1. Dobel-klik "RUN_HEYTUBER.bat".
+2. Skrip ini akan menjalankan micro-server lokal dan membuka Edge App Mode.
+
+---------------------------------------------------------------
+FITUR TERBARU v2.5.2:
+- Logo & Ikon Baru: Ikon emblem anime cat-ear modern resolusi tinggi.
+- Mode Jendela Desktop (Tidak Fullscreen): Aplikasi sekarang berjalan dalam
+  jendela standar 1200x780 (tidak lagi memenuhi layar penuh atau fullscreen).
+  Dapat dipindah, diminimize, dan disesuaikan dengan mudah saat live streaming.
+- Smooth CSS Expression Transitions: Transisi fade dan smooth-scale
+  saat berganti ekspresi (baik via Pitch Frekuensi maupun Hotkeys manual).
+- Quick Expression Bar di Floating Avatar Window.
+- Deteksi Frekuensi Suara (Pitch / Fundamental F0) Real-Time.
+- 100% Pemrosesan Audio di RAM lokal via Web Audio API.
+---------------------------------------------------------------
